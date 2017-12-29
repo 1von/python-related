@@ -1,0 +1,5 @@
+高德爬虫api
+
+url=‘http://ditu.amap.com/service/poiInfo?query_type=TQUERY&city=330100&keywords=’
+#高德在线地图抽取地址，keywords 可以输入关键词
+#返回的结果与在线地图搜索类似，属于poi
